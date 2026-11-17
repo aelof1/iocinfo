@@ -7,7 +7,7 @@ name = "iocinfo"
 version = "1.0.0"
 description = "Check IPs, domains, URLs and hashes against VirusTotal and AbuseIPDB"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 dependencies = []
 

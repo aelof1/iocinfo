@@ -38,7 +38,7 @@ Verdict:
 
 ## Requirements
 
-- **Python 3.9 or newer**
+- **Python 3.10 or newer**
 - An Internet connection
 - **At least one free API key**:
   - VirusTotal: create an account on [virustotal.com](https://www.virustotal.com), then go to your profile → *API Key*
