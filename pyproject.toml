@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "iocinfo"
+version = "1.0.0"
+description = "Check IPs, domains, URLs and hashes against VirusTotal and AbuseIPDB"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[project.scripts]
+iocinfo = "iocinfo.cli:main"
+
+[tool.setuptools]
+packages = ["iocinfo"]

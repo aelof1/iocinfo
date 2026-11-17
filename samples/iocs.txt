@@ -1,0 +1,6 @@
+# One indicator per line. Defanged values are accepted.
+8.8.8.8
+192.168.1.1
+hxxp://example[.]com/login
+example.com
+44d88612fea8a8f36de82e1278abb02f
